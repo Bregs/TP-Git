@@ -6,3 +6,5 @@ Maggle
 Another commit for github
 And another one
 and another other one
+
+That one was modified online @GitHub
